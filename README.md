@@ -14,7 +14,7 @@ This web crawler application can be used on both standalone and distributed envi
   * Cygwin (for computer that used non UNIX-based OS)
 2. The distributed version:
   * Java SE Development Kit (JDK) 1.8
-	* Hadoop 2.7.1
+  * Hadoop 2.7.1
   * HBase 1.2.6
   * Apache Tomcat 7.0.76
   * Ubuntu 14.04 LTS 
