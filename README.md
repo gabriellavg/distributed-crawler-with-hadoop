@@ -1,4 +1,7 @@
 # distributed-crawler-with-hadoop
+
+![Homepage](/images/ui-homepage.png | width = 50%)
+
 ## About
 Web crawler is one of the component of search engine that is used to download web pages on large quantities. 
 This crawler application utilized the Hadoop ecosystem (HDFS and HBase) as the storage media for crawling results.
@@ -24,7 +27,6 @@ This web crawler application can be used on both standalone and distributed envi
 4. Searching 
 
 ## Screenshoots
-![Homepage](/images/ui-homepage.png)
 ![URL seeds monitoring page](/images/ui-front.png)
 ![Crawling results monitoring page](/images/ui-repo.png)
 ![Searching results display](/images/ui-resusr.png)
