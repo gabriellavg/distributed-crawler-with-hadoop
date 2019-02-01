@@ -4,6 +4,7 @@
 ## About
 Web crawler is one of the component of search engine that is used to download web pages on large quantities. 
 This crawler application utilized the Hadoop ecosystem (HDFS and HBase) as the storage media for crawling results.
+Date of creation: January – May 2018
 
 ## Software used
 This web crawler application can be used on both standalone and distributed environment. Below is the software that is used to develop this application.
